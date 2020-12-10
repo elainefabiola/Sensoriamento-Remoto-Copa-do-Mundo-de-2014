@@ -114,9 +114,9 @@
 
 **Custo:** R$ 689,4 milhões (segundo o Ministério do Esporte)
 
-**Latitude:**  15°47'0.67"S
+**Latitude:**  12°58'43.94"S
 
-**Logitude:**   47°53'57.16"O
+**Logitude:**    38°30'15.40"O
 
 <p align="center">
   <img src="ManeGarrinchaGE.png" >
