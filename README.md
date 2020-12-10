@@ -121,3 +121,27 @@
 <p align="center">
   <img src="FonteNovaGE.png" >
 </p>
+
+## Castelão - Fortaleza (CE)
+
+**Nome oficial:** Estádio Plácido Aderaldo Castelo Branco
+
+**Endereço:** Avenida Alberto Craveiro, 2901 - Mata Galinha, Fortaleza (CE)
+
+**Fundação:** 11 de novembro de 1973 (antigo) e 27 de janeiro de 2013 (novo)
+
+**Jogo inaugural:** Ceará 0 x 0 Fortaleza, em 11 de novembro de 1973 (antigo), e Fortaleza 0 x 0 Sport e Ceará 0 x 1 Bahia, em 27 de janeiro de 2013 (novo)
+
+**Capacidade:** 63.903 (será a mesma durante a Copa do Mundo)
+
+**Custo:** R$ 518,6 milhões (segundo o Ministério do Esporte)
+
+**Latitude:**  12°58'43.94"S
+
+**Logitude:**    38°30'15.40"O
+
+<p align="center">
+  <img src="FonteNovaGE.png" >
+</p>
+
+
