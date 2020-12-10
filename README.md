@@ -9,6 +9,16 @@
 ## Contexto Geral
 ### Arena Corinthians
 
+**Nome oficial:** Arena Corinthians
+**Endereço:** Av Miguel Inácio Curi,111 - São Paulo - SP
+**Fundação:** 15 de abril de 2014 (segundo os dirigentes do Corinthians)
+**Jogo inaugural:** Corinthians 0 x 1 Figueirense, no dia 18 de maio de 2014
+**Capacidade:** 68 mil (durante a Copa do Mundo) e 48 mil (após a Copa)
+**Custo:** R$ 1,150 bilhão
+**Latitude:** 23°32'43.16"S
+**Logitude:** 46°28'27.36"O
+
+
 <p align="center">
   <img src="Arena_CorinthiansGE.png" >
 </p>
