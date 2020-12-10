@@ -141,7 +141,7 @@
 **Logitude:**    38°30'15.40"O
 
 <p align="center">
-  <img src="castelaoge.png.png" >
+  <img src="castelaoge.png" >
 </p>
 
 
