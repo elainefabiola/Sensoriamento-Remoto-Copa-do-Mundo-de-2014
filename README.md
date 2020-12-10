@@ -119,5 +119,5 @@
 **Logitude:**    38°30'15.40"O
 
 <p align="center">
-  <img src="ManeGarrinchaGE.png" >
+  <img src="FonteNovaGE.png" >
 </p>
