@@ -48,3 +48,7 @@
 **Latitude:** 22°54'45.48"S
 
 **Logitude:**  43°13'46.57"O
+
+<p align="center">
+  <img src="MaracanaGE.png" >
+</p>
