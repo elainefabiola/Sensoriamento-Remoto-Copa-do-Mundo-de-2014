@@ -96,5 +96,5 @@
 **Logitude:**   47°53'57.16"O
 
 <p align="center">
-  <img src="MineiraoGE .png" >
+  <img src="ManeGarrinchaGE.png" >
 </p>
