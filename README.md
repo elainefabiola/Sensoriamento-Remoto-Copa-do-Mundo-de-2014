@@ -3,11 +3,15 @@
 [![](https://img.shields.io/badge/software-QGIS%202.18-green)](https://qgis.org/pt_BR/site/) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/elainefabiola/Sensoriamento-Remoto)
 
-<p align="center">
-  <img src="bannertocantins.jpg" >
-</p>
 
 
 # Projeto Parcial 2 -  COPA DO MUNDO 2014
 ## Contexto Geral
 ### Arena Corinthians
+
+<p align="center">
+  <img src="Arena_CorinthiansGE.png" >
+</p>
+
+
+
