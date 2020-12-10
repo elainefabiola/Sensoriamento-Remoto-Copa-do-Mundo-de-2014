@@ -31,4 +31,20 @@
 </p>
 
 
+### Maracanã - Rio de Janeiro (RJ)
 
+**Nome oficial:** Estádio Jornalista Mário Filho
+
+**Endereço:** Rua Professor Eurico Rabelo, Maracanã, Rio de Janeiro - RJ
+
+**Fundação:** 16 de junho de 1950
+
+**Jogo inaugural:** seleção carioca 1 x 3 seleção paulista
+
+**Capacidade:** 79 mil
+
+**Custo:** 1,05 bilhão (segundo o Ministério dos Esportes)
+
+**Latitude:** 22°54'45.48"S
+
+**Logitude:**  43°13'46.57"O
