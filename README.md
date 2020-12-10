@@ -7,7 +7,7 @@
 
 # Projeto Parcial 2 -  COPA DO MUNDO 2014
 ## Contexto Geral
-### Arena Corinthians
+## Arena Corinthians
 
 **Nome oficial:** Arena Corinthians
 
@@ -31,7 +31,7 @@
 </p>
 
 
-### Maracanã - Rio de Janeiro (RJ)
+## Maracanã - Rio de Janeiro (RJ)
 
 **Nome oficial:** Estádio Jornalista Mário Filho
 
