@@ -136,9 +136,8 @@
 
 **Custo:** R$ 518,6 milhões (segundo o Ministério do Esporte)
 
-**Latitude:**  12°58'43.94"S
-
-**Logitude:**    38°30'15.40"O
+**Latitude:**   3°48'25.80"S
+**Logitude:**  38°31'20.53"O
 
 <p align="center">
   <img src="castelaoge.png" >
