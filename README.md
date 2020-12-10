@@ -74,5 +74,5 @@
 **Logitude:**   43°58'16.07"O
 
 <p align="center">
-  <img src="MaracanaGE.png" >
+  <img src="MineiraoGE .png" >
 </p>
