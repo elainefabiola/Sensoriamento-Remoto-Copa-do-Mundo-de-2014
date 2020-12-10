@@ -91,6 +91,10 @@
 
 **Custo:** R$ 1,4 bilhão (segundo o Ministério do Esporte)
 
+**Latitude:**  15°47'0.67"S
+
+**Logitude:**   47°53'57.16"O
+
 <p align="center">
   <img src="MineiraoGE .png" >
 </p>
