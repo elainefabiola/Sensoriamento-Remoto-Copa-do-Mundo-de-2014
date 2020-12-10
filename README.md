@@ -76,3 +76,21 @@
 <p align="center">
   <img src="MineiraoGE .png" >
 </p>
+
+## Estádio Nacional de Brasília Mané Garrincha
+
+**Nome oficial:** Estádio Nacional de Brasília Mané Garrincha
+
+**Endereço:** Setor de Recreação Pública Norte, S/N, Asa Norte - Brasília (DF)
+
+**Fundação:** 10 de março de 1974 (antigo) e 18 de maio de 2013 (novo)
+
+**Jogo inaugural:** Ceub 1 x 3 Corinthians, em 10 de março de 1974 (antigo) e Brasília 0 x 3 Brasiliense, em 18 de maio de 2013 (novo)
+
+**Capacidade:** 70 mil (será a mesma durante a Copa do Mundo)
+
+**Custo:** R$ 1,4 bilhão (segundo o Ministério do Esporte)
+
+<p align="center">
+  <img src="MineiraoGE .png" >
+</p>
