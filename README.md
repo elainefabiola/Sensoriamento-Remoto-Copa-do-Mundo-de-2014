@@ -52,3 +52,27 @@
 <p align="center">
   <img src="MaracanaGE.png" >
 </p>
+
+
+## Mineirão - Belo Horizonte (MG)
+
+**Nome oficial:** Estádio Governador Magalhães Pinto
+
+**Endereço:** Av. Antônio Abrahão Caram, 1001 - Pampulha, Belo Horizonte (MG)
+
+
+**Fundação:** 5 de setembro de 1965 (antigo) e 3 de fevereiro de 2013 (novo)
+
+**Jogo inaugural:** Seleção mineira 1 x 0 River Plate (ARG), em 5 de setembro de 1965 (antigo), e Cruzeiro 2 x 1 Atlético-MG, em 3 de fevereiro de 2013 (novo)
+
+**Capacidade:**  62.170 (durante a Copa do Mundo)
+
+**Custo:**  R$ 695 milhões (segundo o Ministério do Esporte)
+
+**Latitude:**  19°51'57.12"S
+
+**Logitude:**   43°58'16.07"O
+
+<p align="center">
+  <img src="MaracanaGE.png" >
+</p>
