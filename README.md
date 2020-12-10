@@ -98,3 +98,26 @@
 <p align="center">
   <img src="ManeGarrinchaGE.png" >
 </p>
+
+
+## Fonte Nova - Salvador (BA)
+
+**Nome oficial:** Complexo Esportivo Octávio Mangabeira
+
+**Endereço:** Ladeira da Fonte Nova das Pedras, s/nº - Nazaré, Salvador (BA)
+
+**Fundação:** 28 de janeiro de 1951 (antigo) e 7 de abril de 2013 (novo)
+
+**Jogo inaugural:** Botafogo-BA 1 x 1 Guarany-BA, em 28 de janeiro de 1951 (antigo), e Bahia 1 x 5 Vitória, em 7 de abril de 2013 (novo)
+
+**Capacidade:** 50 mil (durante a Copa do Mundo)
+
+**Custo:** R$ 689,4 milhões (segundo o Ministério do Esporte)
+
+**Latitude:**  15°47'0.67"S
+
+**Logitude:**   47°53'57.16"O
+
+<p align="center">
+  <img src="ManeGarrinchaGE.png" >
+</p>
