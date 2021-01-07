@@ -20,9 +20,12 @@ Alguns desses projectos são apresentados com mais detalhe, sendo outros
 mencionados de uma forma mais genérica.
 no âmbito do planeamento de infraestruturas, o “4
 o Balanço das Ações do Governo Brasileiro para a Copa 
-2014”, o último tornado público em dezembro de 2012, 
-referia os seguintes projectos e acções (ME, 2012
+2014”, o último tornado público em dezembro de 2014, 
+referia os seguintes projectos e acções (ME, 2014)
 
+<p align="center">
+  <img src="copapajpg.jpg" >
+</p>
 
 ## Arena Corinthians
 
