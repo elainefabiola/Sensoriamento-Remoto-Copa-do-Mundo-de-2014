@@ -144,3 +144,24 @@
 </p>
 
 
+## Beira-Rio - Porto Alegre (RS)
+
+**Nome oficial:** Estádio José Pinheiro Borda (Gigante da Beira-Rio)
+
+**Endereço:** Avenida Padre Cacique, 891 - Praia de Belas - Porto Alegre (RS)
+
+**Fundação:** 6 de abril de 1969
+
+**Jogo inaugural:** Internacional 2 x 1 Benfica, em 6 de abril de 1969
+
+**Capacidade:** 52 mil (durante a Copa do Mundo)
+
+**Custo:** R$ 330 milhões (segundo o Ministério do Esporte)
+
+**Latitude:**    30° 3'56.05"S
+**Logitude:**   51°14'9.50"O
+
+<p align="center">
+  <img src="castelaoge.png" >
+</p>
+
