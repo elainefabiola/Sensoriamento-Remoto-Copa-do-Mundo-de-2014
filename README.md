@@ -7,6 +7,12 @@
 
 # Projeto Parcial 2 -  COPA DO MUNDO 2014
 ## Contexto Geral
+A candidatura do Brasil à organização da Copa do 
+Mundo de 2014 foi ratificada em 2007, tendo a escolha 
+das cidades que iriam sedear o evento sido concluída 
+em 2009
+
+
 ## Arena Corinthians
 
 **Nome oficial:** Arena Corinthians
