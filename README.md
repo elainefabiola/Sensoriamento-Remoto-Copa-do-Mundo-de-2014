@@ -188,9 +188,9 @@
 
 ## Arena da Baixada - Curitiba (PR)
 
-**Nome oficial:** Rua Buenos Aires, 1270 - Curitiba, PR
+**Nome oficial:** Estádio Joaquim Américo Guimarães
 
-**Endereço:** Av. Deus é Fiel, 01 Letra A - Jardim Penedo, São Lourenço da Mata (PE)
+**Endereço:**Rua Buenos Aires, 1270 - Curitiba, PR
 
 **Fundação:**  6 de setembro de 1914 (primeira fase) e 20 de junho de 1999 (segunda fase);
 
@@ -206,3 +206,25 @@
 <p align="center">
   <img src="Est_arenabaixada-PR.jpg" >
 </p>
+
+## Arena das Dunas - Natal (RN)
+
+**Nome oficial:** Arena das Dunas
+
+**Endereço:** Av. Prudente de Morais, 5.121 - Lagoa Nova - Natal (RN)
+
+**Fundação:**  22 de janeiro de 2014
+
+**Jogo inaugural:**  América-RN 2 x 0 Confiança, em 26 de janeiro de 2014
+
+**Capacidade:** 43 mil (durante a Copa do Mundo)
+
+**Custo:** R$ 400 milhões (segundo o Ministério dos Esportes)
+
+**Latitude:**    25°26'53.56"S
+**Logitude:**    49°16'37.15"O
+
+<p align="center">
+  <img src="Est_arenabaixada-PR.jpg" >
+</p>
+
