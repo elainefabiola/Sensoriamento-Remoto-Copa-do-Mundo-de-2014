@@ -31,7 +31,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 
 
 <p align="center">
-  <img src="copapajpg.jpg" >
+  <img src="estagio.jpg" >
 </p>
 
 ## Arena Corinthians
