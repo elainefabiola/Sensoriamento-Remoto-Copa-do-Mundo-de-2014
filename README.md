@@ -221,10 +221,10 @@
 
 **Custo:** R$ 400 milhões (segundo o Ministério dos Esportes)
 
-**Latitude:**    25°26'53.56"S
-**Logitude:**    49°16'37.15"O
+**Latitude:**      5°49'36.62"S
+**Logitude:**     35°12'44.72"O
 
 <p align="center">
-  <img src="Est_arenabaixada-PR.jpg" >
+  <img src="arenadunasRN.jpg" >
 </p>
 
