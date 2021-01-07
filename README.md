@@ -58,7 +58,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 
 
 <p align="center">
+  <br> Figura 03 - Arena Corinthians </br>  
   <img src="Arena_CorinthiansGE.png" >
+    Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 
@@ -81,7 +83,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**  43°13'46.57"O
 
 <p align="center">
+  <br> Figura 04 - Maracanã - Rio de Janeiro (RJ) </br>  
   <img src="MaracanaGE.png" >
+   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 
@@ -303,5 +307,8 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 
 ## Referências ##
 
+GOOGLE EARTH-MAPAS. Http://mapas.google.com. Consulta realizada 12/11/2020
+
 ME– Ministério do Esporte. “6º Balanço da Copa – Dez/2014”. 
 Ministério do Esporte, Governo Federal do Brasil, dezembro de 2014. Disponível em: http://arquivo.esporte.gov.br/arquivos/assessoriaEspecialFutebol/copa2014/6_Balanco_Copa_dez_2014.pdf. Acesso em: 25 de Nov. de 2020.
+
