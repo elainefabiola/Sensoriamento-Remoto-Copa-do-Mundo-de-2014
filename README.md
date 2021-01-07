@@ -200,8 +200,8 @@
 
 **Custo:** R$ 326,7 milhões (segundo o Ministério dos Esportes)
 
-**Latitude:**   8° 2'26.39"S
-**Logitude:**   35° 0'29.47"O
+**Latitude:**    25°26'53.56"S
+**Logitude:**    49°16'37.15"O
 
 <p align="center">
   <img src="Est_pernanbuco-PE.jpg" >
