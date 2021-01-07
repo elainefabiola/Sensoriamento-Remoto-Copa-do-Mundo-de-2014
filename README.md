@@ -165,3 +165,23 @@
   <img src="Est_BeiraRio-RS.jpg" >
 </p>
 
+## Arena Pernambuco - Recife (PE)
+
+**Nome oficial:** Arena Pernambuco
+
+**Endereço:** Av. Deus é Fiel, 01 Letra A - Jardim Penedo, São Lourenço da Mata (PE)
+
+**Fundação:** 14 de abril de 2013
+
+**Jogo inaugural:** Náutico x Sporting-POR, em 22 de maio de 2013
+
+**Capacidade:** 46 mil (será a mesma durante a Copa do Mundo)
+
+**Custo:** R$ 532,6 milhões (segundo o Ministério do Esporte)
+
+**Latitude:**   8° 2'26.39"S
+**Logitude:**   35° 0'29.47"O
+
+<p align="center">
+  <img src="Est_BeiraRio-RS.jpg" >
+</p>
