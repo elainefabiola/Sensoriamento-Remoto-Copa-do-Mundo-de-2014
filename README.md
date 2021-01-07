@@ -109,7 +109,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   43°58'16.07"O
 
 <p align="center">
+   <br> Figura 05 - Mineirão - Belo Horizonte (MG) </br>  
   <img src="MineiraoGE .png" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Estádio Nacional de Brasília Mané Garrincha
@@ -131,7 +133,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   47°53'57.16"O
 
 <p align="center">
+   <br> Figura 06 - Estádio Nacional de Brasília Mané Garrincha </br>  
   <img src="ManeGarrinchaGE.png" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 
@@ -154,7 +158,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**    38°30'15.40"O
 
 <p align="center">
+  <br> Figura 08 - Complexo Esportivo Octávio Mangabeira -BA</br>  
   <img src="FonteNovaGE.png" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Castelão - Fortaleza (CE)
@@ -175,7 +181,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**  38°31'20.53"O
 
 <p align="center">
+  <br> Figura 09 - Estádio Plácido Aderaldo Castelo Branco-CE</br>  
   <img src="castelaoge.png" >
+   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 
@@ -197,7 +205,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   51°14'9.50"O
 
 <p align="center">
+  <br> Figura 10 - Beira-Rio - Porto Alegre (RS)</br>  
   <img src="Est_BeiraRio-RS.jpg" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Arena Pernambuco - Recife (PE)
@@ -218,7 +228,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   35° 0'29.47"O
 
 <p align="center">
+  <br> Figura 11 - Arena Pernambuco</br> 
   <img src="Est_pernanbuco-PE.jpg" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Arena da Baixada - Curitiba (PR)
