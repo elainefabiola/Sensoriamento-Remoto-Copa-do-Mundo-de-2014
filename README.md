@@ -185,3 +185,24 @@
 <p align="center">
   <img src="Est_pernanbuco-PE.jpg" >
 </p>
+
+## Arena da Baixada - Curitiba (PR)
+
+**Nome oficial:** Rua Buenos Aires, 1270 - Curitiba, PR
+
+**Endereço:** Av. Deus é Fiel, 01 Letra A - Jardim Penedo, São Lourenço da Mata (PE)
+
+**Fundação:**  6 de setembro de 1914 (primeira fase) e 20 de junho de 1999 (segunda fase);
+
+**Jogo inaugural:** Internacional-PR 1 x 7 Flamengo (1914)
+
+**Capacidade:** 41 mil
+
+**Custo:** R$ 326,7 milhões (segundo o Ministério dos Esportes)
+
+**Latitude:**   8° 2'26.39"S
+**Logitude:**   35° 0'29.47"O
+
+<p align="center">
+  <img src="Est_pernanbuco-PE.jpg" >
+</p>
