@@ -158,7 +158,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**    38°30'15.40"O
 
 <p align="center">
-  <br> Figura 08 - Complexo Esportivo Octávio Mangabeira -BA</br>  
+  <br> Figura 07 - Complexo Esportivo Octávio Mangabeira -BA</br>  
   <img src="FonteNovaGE.png" >
   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
@@ -181,7 +181,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**  38°31'20.53"O
 
 <p align="center">
-  <br> Figura 09 - Estádio Plácido Aderaldo Castelo Branco-CE</br>  
+  <br> Figura 08 - Estádio Plácido Aderaldo Castelo Branco-CE</br>  
   <img src="castelaoge.png" >
    Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
@@ -205,7 +205,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   51°14'9.50"O
 
 <p align="center">
-  <br> Figura 10 - Beira-Rio - Porto Alegre (RS)</br>  
+  <br> Figura 09 - Beira-Rio - Porto Alegre (RS)</br>  
   <img src="Est_BeiraRio-RS.jpg" >
   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
@@ -228,7 +228,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**   35° 0'29.47"O
 
 <p align="center">
-  <br> Figura 11 - Arena Pernambuco</br> 
+  <br> Figura 10 - Arena Pernambuco</br> 
   <img src="Est_pernanbuco-PE.jpg" >
   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
@@ -251,7 +251,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**    49°16'37.15"O
 
 <p align="center">
+   <br> Figura 11 - Arena da Baixada - Curitiba (PR)</br> 
   <img src="Est_arenabaixada-PR.jpg" >
+   Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Arena das Dunas - Natal (RN)
@@ -272,7 +274,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**     35°12'44.72"O
 
 <p align="center">
+  <br> Figura 12 - Arena das Dunas - Natal (RN)</br> 
   <img src="arenadunasRN.jpg" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Arena da Amazônia - Manaus (AM)
@@ -293,7 +297,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**      60° 1'41.30"O
 
 <p align="center">
+  <br> Figura 13 - Arena da Amazônia - Manaus (AM)</br>
   <img src="arenaamazo.jpg" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Arena Pantanal - Cuiabá (MT)
@@ -314,7 +320,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 **Logitude:**       56° 7'17.85"O
 
 <p align="center">
+  <br> Figura 14 - Arena Pantanal - Cuiabá (MT)</br>
   <img src="pantanal.jpg" >
+  Fonte: GOOGLE EARTH-MAPAS, 2020
 </p>
 
 ## Referências ##
