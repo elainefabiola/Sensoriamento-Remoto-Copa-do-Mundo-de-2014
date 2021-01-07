@@ -44,7 +44,7 @@ O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código 
 
 
 <p align="center">
-  <br> Figura 02 -  Sistema  de  Informações  Geográficas - QGIS </br>  
+  <br> Figura 03 -  Sistema  de  Informações  Geográficas - QGIS </br>  
   <img src="painel.jpg" >
    Fonte: Fonte: do autor, 2020
 </p>
@@ -61,12 +61,12 @@ A Malha  Municipal do IBGE retrata  a  situação  vigente  da  divisão  polít
 ## Cidades-sede da Copa do Mundo de 2014
 No planejamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em operação:
 <p align="center">
-   <br> Figura 02 -  Cidades-sede da Copa do Mundo de 2014 </br>  
+   <br> Figura 04 -  Cidades-sede da Copa do Mundo de 2014 </br>  
   <img src="mapasede.jpg">
   Fonte: Fonte: do autor, 2020
 </p>
 
-
+# Arenas
 ## Arena Corinthians
 
 **Nome oficial:** Arena Corinthians
