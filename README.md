@@ -267,5 +267,5 @@
 **Logitude:**       56° 7'17.85"O
 
 <p align="center">
-  <img src="arenaamazo.jpg" >
+  <img src="pantanal.jpg" >
 </p>
