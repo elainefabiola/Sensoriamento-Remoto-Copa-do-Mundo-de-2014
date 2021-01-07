@@ -289,6 +289,5 @@ referia os seguintes projectos e acções (ME, 2012
 
 ## Referências ##
 
-ME– Ministério do Esporte. “4 o Balanço das Ações do Governo Brasileiro para a Copa 2014”. 
-Ministério do Esporte, Governo Federal do Brasil, dezembro de 2012. Disponível em: http://
-www.copa2014.gov.br/sites/default/files/publicas/12272012_balanco_copa_geral.pdf. Acesso em: 25 de Nov. de 2020.
+ME– Ministério do Esporte. “6º Balanço da Copa – Dez/2014”. 
+Ministério do Esporte, Governo Federal do Brasil, dezembro de 2014. Disponível em: http://arquivo.esporte.gov.br/arquivos/assessoriaEspecialFutebol/copa2014/6_Balanco_Copa_dez_2014.pdf. Acesso em: 25 de Nov. de 2020.
