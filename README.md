@@ -24,7 +24,9 @@ o Balanço das Ações do Governo Brasileiro para a Copa
 referia os seguintes projectos e acções (ME, 2014)
 
 <p align="center">
+  <br> Figura 01 - Infraestruturas Copa do Mundo 2014 </br>  
   <img src="copapajpg.jpg" >
+   Fonte: ME, 2014
 </p>
 
 No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
