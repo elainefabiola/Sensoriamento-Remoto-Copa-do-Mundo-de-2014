@@ -27,6 +27,13 @@ referia os seguintes projectos e acções (ME, 2014)
   <img src="copapajpg.jpg" >
 </p>
 
+No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
+
+
+<p align="center">
+  <img src="copapajpg.jpg" >
+</p>
+
 ## Arena Corinthians
 
 **Nome oficial:** Arena Corinthians
