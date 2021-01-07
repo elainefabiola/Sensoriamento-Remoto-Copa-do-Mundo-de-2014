@@ -12,16 +12,16 @@ Mundo de 2014 foi ratificada em 2007, tendo a escolha
 das cidades que iriam sedear o evento sido concluída 
 em 2009
 
-os planos do comité organizador preveem inicia
+os planos do comitê organizador previram inicia
 tivas nos domínios dos aeroportos e dos portos, da 
 mobilidade urbana, das comunicações, da cultura, da 
 saúde, da segurança, da sustentabilidade, da transparência e do turismo (ME, 2012).
-Alguns desses projectos são apresentados com mais detalhe, sendo outros 
+Alguns desses projetos são apresentados com mais detalhes, sendo outros 
 mencionados de uma forma mais genérica.
-no âmbito do planeamento de infraestruturas, o “4
+No âmbito do planejamento de infraestruturas, o “4
 o Balanço das Ações do Governo Brasileiro para a Copa 
-2014”, o último tornado público em dezembro de 2014, 
-referia os seguintes projectos e acções (ME, 2014)
+de 2014”, o último tornado público em dezembro de 2014, 
+referia os seguintes projetos e ações (ME, 2014)
 
 <p align="center">
   <br> Figura 01 - Infraestruturas Copa do Mundo 2014 </br>  
@@ -29,7 +29,7 @@ referia os seguintes projectos e acções (ME, 2014)
    Fonte: ME, 2014
 </p>
 
-No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
+No planejamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
 
 
 <p align="center">
@@ -39,7 +39,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 </p>
 
 ## Sistema  de  Informações  Geográficas   QGIS
-O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código Aberto. O projeto iniciou em maio de 2002 e foi reconhecido como um projeto no SourceForge em junho do mesmo ano. O QGIS atualmenteroda em muitas distribuições **Linux, Unix, Windows e OS X**. O QGIS é uma ferramenta **Sistema de Informação Geográfica-SIG** que é uma coleção de programas que permitem criar, visualizar, consultar e analisar dados geoespaciais. 
+O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código Aberto. O projeto iniciou em maio de 2002 e foi reconhecido como um projeto no SourceForge em junho do mesmo ano. O QGIS atualmente roda em muitas distribuições **Linux, Unix, Windows e OS X**. O QGIS é uma ferramenta **Sistema de Informação Geográfica-SIG** que consiste de uma coleção de programas que permitem criar, visualizar, consultar e analisar dados geoespaciais. 
 
 
 
@@ -51,15 +51,15 @@ O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código 
 
 ## Fonte de Dados
 
-### Malha Municipal do -IBGE
-A Malha  Municipal  retrata  a  situação  vigente  da  Divisão  Político-Administrativa,  através  da  representação   vetorial   das   linhas   definidoras   das   divisas   estaduais   e   limites   municipais.  
+### Malha Municipal do IBGE
+A Malha  Municipal do IBGE retrata  a  situação  vigente  da  divisão  político-administrativa,  através  da  representação   vetorial   das   linhas   definidoras   das   divisas   estaduais   e   limites   municipais.  
 
 <p align="center">
   <img src="ibge22.jpg" >
 </p>
 
 ## Cidades-sede da Copa do Mundo de 2014
-No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
+No planejamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em operação:
 <p align="center">
    <br> Figura 02 -  Cidades-sede da Copa do Mundo de 2014 </br>  
   <img src="mapasede.jpg">
