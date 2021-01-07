@@ -183,5 +183,5 @@
 **Logitude:**   35° 0'29.47"O
 
 <p align="center">
-  <img src="Est_BeiraRio-RS.jpg" >
+  <img src="Est_pernanbuco-PE.jpg" >
 </p>
