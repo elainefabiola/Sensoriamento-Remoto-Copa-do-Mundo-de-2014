@@ -352,7 +352,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 
 ## Referências ##
 
-GOOGLE EARTH-MAPAS. Http://mapas.google.com. Consulta realizada 12/11/2020
+IBGE -Portal de mapas. https://portaldemapas.ibge.gov.br/portal.php#mapa207866 Acesso em: 25 de Nov. de 2020.
+
+GOOGLE EARTH-MAPAS. Http://mapas.google.com. Acesso em: 25 de Nov. de 2020.
 
 ME– Ministério do Esporte. “6º Balanço da Copa – Dez/2014”. 
 Ministério do Esporte, Governo Federal do Brasil, dezembro de 2014. Disponível em: http://arquivo.esporte.gov.br/arquivos/assessoriaEspecialFutebol/copa2014/6_Balanco_Copa_dez_2014.pdf. Acesso em: 25 de Nov. de 2020.
