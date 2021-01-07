@@ -204,5 +204,5 @@
 **Logitude:**    49°16'37.15"O
 
 <p align="center">
-  <img src="Est_pernanbuco-PE.jpg" >
+  <img src="Est_arenabaixada-PR.jpg" >
 </p>
