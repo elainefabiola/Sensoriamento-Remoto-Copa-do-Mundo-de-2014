@@ -248,3 +248,24 @@
 <p align="center">
   <img src="arenaamazo.jpg" >
 </p>
+
+## Arena Pantanal - Cuiabá (MT)
+
+**Nome oficial:** Arena Pantanal
+
+**Endereço:** Avenida Agrícola Paes de Barros, Cuiabá - MT
+
+**Fundação:** marcada para 2 de abril de 2014
+
+**Jogo inaugural:**  Mixto 0 x 0 Santos
+
+**Capacidade:** 44 mil (39.859 durante a Copa)
+
+**Custo:** R$ 646,5 milhões (segundo o Governo de Mato Grosso)
+
+**Latitude:**       15°36'14.47"S
+**Logitude:**       56° 7'17.85"O
+
+<p align="center">
+  <img src="arenaamazo.jpg" >
+</p>
