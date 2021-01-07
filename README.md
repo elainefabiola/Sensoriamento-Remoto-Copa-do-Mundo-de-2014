@@ -41,7 +41,7 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
 <p align="center">
    <br> Figura 02 -  Cidade-sede da Copa do Mundo de 2014 </br>  
-  <img src="mapasede.jpg >
+  <img src="mapasede.jpg">
   Fonte: Fonte: do autor, 2020
 </p>
 
