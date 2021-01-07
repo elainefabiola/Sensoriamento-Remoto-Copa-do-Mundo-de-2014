@@ -162,6 +162,6 @@
 **Logitude:**   51°14'9.50"O
 
 <p align="center">
-  <img src="castelaoge.png" >
+  <img src="Est_BeiraRio-RS.jpg" >
 </p>
 
