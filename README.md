@@ -228,3 +228,23 @@
   <img src="arenadunasRN.jpg" >
 </p>
 
+## Arena da Amazônia - Manaus (AM)
+
+**Nome oficial:** Arena da Amazônia
+
+**Endereço:** Av. Constantino Nery, 5001, Chapada - Manaus (AM)
+
+**Fundação:**  9 de março de 2014
+
+**Jogo inaugural:**  Nacional-AM 2 x 2 Remo, em 9 de março de 2014
+
+**Capacidade:** 44 mil pessoas
+
+**Custo:** 669,5 milhões (segundo o Ministério dos Esportes)
+
+**Latitude:**      3° 4'59.68"S
+**Logitude:**      60° 1'41.30"O
+
+<p align="center">
+  <img src="arenaamazo.jpg" >
+</p>
