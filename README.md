@@ -12,6 +12,17 @@ Mundo de 2014 foi ratificada em 2007, tendo a escolha
 das cidades que iriam sedear o evento sido concluída 
 em 2009
 
+os planos do comité organizador preveem inicia
+tivas nos domínios dos aeroportos e dos portos, da 
+mobilidade urbana, das comunicações, da cultura, da 
+saúde, da segurança, da sustentabilidade, da transparência e do turismo (ME, 2012).
+Alguns desses projectos são apresentados com mais detalhe, sendo outros 
+mencionados de uma forma mais genérica.
+no âmbito do planeamento de infraestruturas, o “4
+o Balanço das Ações do Governo Brasileiro para a Copa 
+2014”, o último tornado público em dezembro de 2012, 
+referia os seguintes projectos e acções (ME, 2012
+
 
 ## Arena Corinthians
 
@@ -275,3 +286,9 @@ em 2009
 <p align="center">
   <img src="pantanal.jpg" >
 </p>
+
+## Referências ##
+
+ME– Ministério do Esporte. “4 o Balanço das Ações do Governo Brasileiro para a Copa 2014”. 
+Ministério do Esporte, Governo Federal do Brasil, dezembro de 2012. Disponível em: http://
+www.copa2014.gov.br/sites/default/files/publicas/12272012_balanco_copa_geral.pdf. Acesso em: 25 de Nov. de 2020.
