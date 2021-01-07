@@ -52,14 +52,16 @@ O Quantum GIS **(QGIS)** é um Sistema de Informações Geográficas de Código 
 ## Fonte de Dados
 
 ### Malha Municipal do -IBGE
-A Malha  Municipal  retrata  a  situação  vigente  da  Divisão  Político-Administrativa,  através  da  representação   vetorial   das   linhas   definidoras   das   divisas   estaduais   e   limites   municipais.  [Malha Municipal Tocantins -2019](https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2019/UFs/TO/TO.zip)
+A Malha  Municipal  retrata  a  situação  vigente  da  Divisão  Político-Administrativa,  através  da  representação   vetorial   das   linhas   definidoras   das   divisas   estaduais   e   limites   municipais.  
 
 <p align="center">
   <img src="ibge22.jpg" >
 </p>
+
+## Cidades-sede da Copa do Mundo de 2014
 No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos estádios em opreção:
 <p align="center">
-   <br> Figura 02 -  Cidade-sede da Copa do Mundo de 2014 </br>  
+   <br> Figura 02 -  Cidades-sede da Copa do Mundo de 2014 </br>  
   <img src="mapasede.jpg">
   Fonte: Fonte: do autor, 2020
 </p>
