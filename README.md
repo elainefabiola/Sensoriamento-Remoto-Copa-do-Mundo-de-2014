@@ -33,7 +33,9 @@ No planeamento (ME, 2014) estavam ainda incluídas iniciativas de ter 12 novos e
 
 
 <p align="center">
+   <br> Figura 02 - Estádioscopa mundo 2014 </br>  
   <img src="estagio.jpg" >
+  Fonte: ME, 2014
 </p>
 
 ## Arena Corinthians
